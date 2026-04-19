@@ -1,5 +1,5 @@
 # [REVAMPED] Origins - Rose Red 
-a fork of the theme "Origins - Rose Red" by Ari
+a fork of the theme "Origins - Rose Red"
 
 From [ArisonID](https://github.com/ArisonID), where you can get the all the themes (OUTDATED NOW)
 
